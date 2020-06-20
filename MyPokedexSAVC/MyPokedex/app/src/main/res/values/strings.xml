@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Codelab Pokedex</string>
+    <string name="main_activity_title">POKEDEX</string>
+    <string name="main_activity_welcome_message">Bienvenido</string>
+    <string name="main_activity_instructions">Pokemon Registrados : 72 </string>
+    <string name="main_activity_instructions2">Felicidades encontraste a todos los Pokemon de Kalos</string>
+    <string name="drawer_button_my_pokemons">Mis Pokemon</string>
+    <string name="drawer_button_my_favorites">Mis Favoritos</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="pokemon_list_activity_title">Mis Pokemon</string>
+    <string name="pokemon_favorites_activity_title">Mis Favoritos</string>
+</resources>
